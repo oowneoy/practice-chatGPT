@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: chatGPT
+  config:
+    import: classpath:application-secrets.yaml
